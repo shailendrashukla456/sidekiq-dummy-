@@ -1,0 +1,18 @@
+current directory: /home/deepak/Desktop/work/deepak_sir_project/side_kiq/dummy_sidekiq/sidekiq_tutorial/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/home/deepak/.rvm/rubies/ruby-2.6.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/side_kiq/dummy_sidekiq/sidekiq_tutorial/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240209-7053-1if200f sitelibdir\=./.gem.20240209-7053-1if200f clean
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/side_kiq/dummy_sidekiq/sidekiq_tutorial/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240209-7053-1if200f sitelibdir\=./.gem.20240209-7053-1if200f
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/side_kiq/dummy_sidekiq/sidekiq_tutorial/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240209-7053-1if200f sitelibdir\=./.gem.20240209-7053-1if200f install
+/usr/bin/install -m 0755 cruby.so ./.gem.20240209-7053-1if200f/skiptrace/internal
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/side_kiq/dummy_sidekiq/sidekiq_tutorial/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240209-7053-1if200f sitelibdir\=./.gem.20240209-7053-1if200f clean
